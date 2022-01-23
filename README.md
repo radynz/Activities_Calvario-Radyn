@@ -1,1 +1,1 @@
-# Activities_Calvario-Radyn
+This activity is for subject Computer Programming II Full Name: Radyn V.  Calvario Year and Section: BSIT2-2 Did the GIT is useful to the programmers and developers? yes/no: and why? ans: Yes, because helps programmers collaborate, coordinate work, and work together on complex code and development projects.
